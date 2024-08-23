@@ -1,0 +1,387 @@
+    1  ls
+    2  exit
+    3  sudo apt update
+    4  sudo install "Developer tools"
+    5  sudo install yum
+    6  sudo groupinstall "Developer Tools"
+    7  ls
+    8  cd Desktop
+    9  touch rajdip.txt
+   10  ls
+   11  vi rajdip.txt
+   12  cat rajdip.txt
+   13  sudp apt install vim
+   14  sudo apt install vim
+   15  vim --version
+   16  sudo apt-get update
+   17  sudo apt upgrade
+   18  sudo apt install gnome-session gdm3
+   19  sudo reboot
+   20  clear
+   21  echo $?
+   22  clear
+   23  ping -c -l googl.ecom
+   24  ping -c -l googl.com
+   25  ping -c 1 google.com
+   26  ls
+   27  cd Desktop
+   28  cd scripts
+   29  vim script_2.sh
+   30  ls -s
+   31  ls -l
+   32  chmod 764 script_2.sh
+   33  ls -l
+   34  ./script_2.sh
+   35  vim script_2.sh
+   36  ./script_2.sh
+   37  clear
+   38  realpath script_2.sh
+   39  cd 
+   40  ls
+   41  pwd
+   42  ls
+   43  apt get install node
+   44  clear
+   45  exit
+   46  clear
+   47  ls
+   48  sudo -i
+   49  exit
+   50  adduser test
+   51  sudo -i
+   52  exit
+   53  hostname
+   54  ls
+   55  mkdir scripts
+   56  ls
+   57  cd scripts
+   58  ls
+   59  cat>note.txt
+   60  ls
+   61  cat note.txt
+   62  touch script_1.sh
+   63  vi script_1.sh
+   64  cat script_1.sh
+   65  echo "Hiiiiiii"
+   66  echo $0
+   67  cat script_1.sh
+   68  vi script_1.sh
+   69  clear
+   70  vim script_1.sh
+   71  cat script_1.sh
+   72  ls
+   73  ls -l
+   74  ls -ltr
+   75  clear
+   76  ls
+   77  chmod u=rwx note.txt
+   78  ls -ltr
+   79  ./note.txt
+   80  chmod u-x note.txt
+   81  ls -ltr
+   82  chmod u=rwx script_1.sh
+   83  ./script_1.sh
+   84  clear
+   85  vim script_1.sh
+   86  ./script_1.sh
+   87  vim script_1.sh
+   88  ./script_1.sh
+   89  vim script_1.sh
+   90  ./script_1.sh
+   91  vim script_1.sh
+   92  ./script_1.sh
+   93  ls
+   94  cd ..
+   95  vim script_1.sh
+   96  cat script_1.sh
+   97  vim script_1.sh
+   98  cat script_1.sh
+   99  vim script_1.sh
+  100  cat script_1.sh
+  101  clear
+  102  ls
+  103  mv scripts Desktop
+  104  ls
+  105  mv script_1.sh Desktop/scripts
+  106  ls
+  107  cd Desktop
+  108  cd scripts
+  109  ls
+  110  cd ..
+  111  ls
+  112  rm rajdip.txt
+  113  ls
+  114  cd scripts
+  115  clear
+  116  ls
+  117  vim note.txt
+  118  cat note.txt
+  119  vim script_1.sh
+  120  ./script_1.sh
+  121  ls -s
+  122  ls -l
+  123  chmod u=x script_1.sh
+  124  clear
+  125  ./script_1.sh
+  126  ls -l
+  127  chmod u=rwx script_1.sh
+  128  ./script_1.sh
+  129  clear
+  130  ls
+  131  vim script_1.sh
+  132  ./script_1.sh
+  133  vim script_1.sh
+  134  ./script_1.sh
+  135  vim script_1.sh
+  136  ./script_1.sh
+  137  vim script_1.sh
+  138  clear
+  139  vim script_1.sh
+  140  clear
+  141  ./script_1.sh
+  142  vim script_1.sh
+  143  ./script_1.sh Rajdip Rimpa
+  144  vim script_1.sh
+  145  ./script_1.sh Rajdip Rimpa
+  146  vim script_1.sh
+  147  ./script_1.sh Rajdip Rimpa
+  148  ./script_1.sh Rajdip He is a good boy
+  149  vim script_1.sh
+  150  ./script_1.sh Rajdip He is a good boy
+  151  vim script_1.sh
+  152  ./script_1.sh Rajdip He is a good boy
+  153  clear
+  154  ifconfig
+  155  ipconfig
+  156  iconfig
+  157  ifconfig
+  158  cd root/
+  159  cd /root
+  160  echo $?
+  161  clear
+  162  echo $?
+  163  ls
+  164  cd
+  165  ls
+  166  cd ..
+  167  clear
+  168  su - root
+  169  su -root
+  170  su - root
+  171  clear
+  172  su - root
+  173  sudo -i
+  174  exit
+  175  cd Desktop
+  176  ls
+  177  touch questions.txt
+  178  vim question.txt
+  179  cd
+  180  shutdown -h now
+  181  $?
+  182  ;s
+  183  ls
+  184  $?
+  185  echo $?
+  186  clear
+  187  ls
+  188  vim my_data.txt
+  189  cat my_data.txt
+  190  awk
+  191  clear
+  192  awk
+  193  clear
+  194  cat my_data.txt
+  195  awk '{print $1 $4}'
+  196  clear
+  197  cat my_data.txt
+  198  awk '{print $1 $4}' my_data.txt
+  199  awk '{print $1 "\t" $4}' my_data.txt
+  200  vim my_data.txt
+  201  clear
+  202  cat my_data.txt 
+  203  awk '{print $1 "\t" $4}' my_data.txt
+  204  awk '{print $2 "\t" $1 "\t" $3 "\t" $4}' my_data.txt
+  205  awk '{print $2 "\t" $1 "\t" $3 "\t" $4}' my_data.txt >>new_data.txt
+  206  cat new_data.txt 
+  207  vim new_data.txt 
+  208  ls
+  209  awk '{print $1 "\t" $4}' new_data.txt
+  210  rm my_data.txt
+  211  clear
+  212  cat new_data.txt
+  213  sort new_data.txt 
+  214  sort -k3 -n new_data.txt 
+  215  sort -k3 -n new_data.txt | wc
+  216  clear
+  217  head new_data.txt 
+  218  tail new_data.txt 
+  219  which ls
+  220  cp new_data.txt copy.txt
+  221  ls
+  222  cat copy.txt
+  223  sed 's/India/Bharat' new_data.txt 
+  224  sed 'S/India/Bharat' copy.txt 
+  225  sed --help
+  226  sed 's/India/Bharat'-f new_data.txt 
+  227  clear
+  228  cat copy.txt
+  229  sed 's/India/Bharat/' new_data.txt 
+  230  cat copy.txt
+  231  cat new_data.txt 
+  232  cat copy.txt 
+  233  clear
+  234  uname
+  235  hostname
+  236  grep "India" new_data.txt
+  237  grep "*dia" new_data.txt
+  238  grep "i" new_data.txt
+  239  grep-i "i" new_data.txt
+  240  grep -i "i" new_data.txt
+  241  grep -ni "i" new_data.txt
+  242  grep -vi "India" new_data.txt
+  243  grep -nvi "India" new_data.txt
+  244  grep --help
+  245  less grep
+  246  which less
+  247  less grep
+  248  cat new_data.txt 
+  249  clear
+  250  cat new_data.txt 
+  251  grep "^1" new_data.txt 
+  252  grep "1$" new_data.txt 
+  253  grep "dia$" new_data.txt 
+  254  grep "In*" new_data.txt 
+  255  grep "India" new_data.txt | sort -k3 -n
+  256  grep -n "India" new_data.txt | sort -k3 -n
+  257  grep "India" new_data.txt | sort -k3 -n
+  258  clear
+  259  ls
+  260  find . -name *.txt
+  261  find . -name "*.txt"
+  262  stat new_data.txt 
+  263  stat -h new_data.txt 
+  264  clear
+  265  exit
+  266  apropos full
+  267  full
+  268  watch
+  269  full
+  270  apropos full
+  271  apropos size
+  272  apropos screen
+  273  clear
+  274  ls
+  275  cd Desktop
+  276  ls
+  277  ls -lah
+  278  cat questions.txt
+  279  cat question.txt
+  280  apropos rename
+  281  rename questions.txt file.txt
+  282  ls -lah
+  283  clear
+  284  ls
+  285  mv questions.txt my
+  286  ls
+  287  mv my scripts/my_data.txt
+  288  ls
+  289  cd scripts
+  290  ls
+  291  cat note.txt
+  292  cat my_data.txt
+  293  echo "Name Id" > my_data.txt
+  294  cat my_data.txt
+  295  > my_data.txt
+  296  cat my_data.txt
+  297  echo "Name Id age" > my_data.txt
+  298  cat my_data.txt
+  299  echo "country" >> my_data.txt
+  300  cat my_data.txt
+  301  df -h
+  302  free -h
+  303  clear
+  304  $0
+  305  exit
+  306  cd Desktop
+  307  cd scripts
+  308  ls
+  309  clear
+  310  ls
+  311  ./digital_clock.sh 
+  312  clear
+  313  cat new_data.txt
+  314  clear
+  315  vim new_data.txt
+  316  cat new_data.txt 
+  317  clear
+  318  bin
+  319  ls
+  320  clear
+  321  nano new_data.txt 
+  322  atom
+  323  clear
+  324  hostname
+  325  uname
+  326  help
+  327  clear
+  328  ls
+  329  vim -0 script_1.sh script_2.sh
+  330  vim -o script_1.sh script_2.sh
+  331  vim --help
+  332  clear
+  333  ls -lha
+  334  ls -l
+  335  cd /
+  336  ls
+  337  cd bin
+  338  ls
+  339  clear
+  340  ls -l
+  341  clear
+  342  cd ..
+  343  ls
+  344  cd user
+  345  cd usr
+  346  ls
+  347  cd ..
+  348  cd home
+  349  cls
+  350  clear
+  351  ls
+  352  cd rajdip14
+  353  ls
+  354  whoami
+  355  cd /
+  356  whoami
+  357  cd ..
+  358  cd home
+  359  cd rajdip14
+  360  clear
+  361  ls
+  362  ls -l
+  363  exit
+  364  git
+  365  apt 
+  366  sudo apt install git-all
+  367  cls
+  368  clear
+  369  git --version
+  370  clear
+  371  git config --global user.name "rajdip14"
+  372  git config --global user.email "palrajdip33@gmail.com"
+  373  cd Desktop
+  374  ls
+  375  cat questions.txt
+  376  cat question.txt
+  377  cd scripts
+  378  ls
+  379  cler
+  380  clear
+  381  ls -lha
+  382  cat .delay.sh.swp
+  383  cat delay.sh
+  384  clear
+  385  ls -lha
+  386  history
+  387  history > questions.txt
